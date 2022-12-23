@@ -24,7 +24,7 @@ objects without specifying their concrete classes.
 ![AbstractFactoryUML.jpg](AbstractFactoryUML.jpg)
 
 **Example 1**
-![AbstractFactoryExample1.jpg](AbstractFactoryExample1.jpg)
+![AbstractFactoryExamplePizza.jpg](AbstractFactoryExamplePizza.jpg)
 
 
 
