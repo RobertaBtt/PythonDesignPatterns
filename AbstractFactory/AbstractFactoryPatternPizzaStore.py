@@ -82,7 +82,7 @@ class RomePizzaStore(PizzaStoreAbstract):
 Each PizzaStore defines the method create_pizza, they create their own variation of Pizza
 """
 
-"""order_pizza calls create_pizza but it has no idea of what real cocnrete class is involve.
+"""order_pizza calls create_pizza but it has no idea of what real concrete class is involve.
 It's when I choose the Store, that I decide the concrete Pizzas that are going to be made."""
 
 """The method create_pizza has the responsibility to instantiate the Pizza.
